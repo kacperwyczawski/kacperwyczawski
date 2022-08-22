@@ -10,4 +10,4 @@
 
 ### And my contibution streak :fire:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kacperwyczawski&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kacperwyczawski)](https://git.io/streak-stats)
