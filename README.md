@@ -8,6 +8,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kacperwyczawski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### If you need, here is CV
+
+:star2: [magic link](https://kacperwyczawski.github.io/cv/) :star2:
+
 ### And my contibution streak :fire:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kacperwyczawski)](https://git.io/streak-stats)
