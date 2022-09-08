@@ -10,7 +10,7 @@
 
 ### If you need, here is CV
 
-:star2: [magic link](https://kacperwyczawski.github.io/cv/) :star2:
+:star: [magic link](https://kacperwyczawski.github.io/cv/) :star:
 
 ### And my contibution streak :fire:
 
