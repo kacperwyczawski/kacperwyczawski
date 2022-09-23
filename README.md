@@ -1,5 +1,7 @@
 # Hello there 👋 I'm Kacper Wyczawski
 
+[GitHub](https://github.com/kacperwyczawski) / [Email](mailto:wyczawskikacper@gmail.com) / [Location](https://goo.gl/maps/MWfC2ftC5sTWUAEp9)
+
 ### Here are some things about me :man_technologist:
 
 |Favorite  IDE:|Favorite Programming language:|Favorite Platform:|Favorite VCS:|Favorite Markup langugage:|
