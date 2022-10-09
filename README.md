@@ -20,6 +20,10 @@ Favorite VCS and VC Hosting:
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+Favorite Framework:
+
+![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
+
 Favorite Markup langugage:
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![.Net](https://img.shields.io/badge/Razor-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
