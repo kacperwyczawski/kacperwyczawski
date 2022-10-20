@@ -2,8 +2,6 @@
 
 [Website](https://kacperwyczawski.github.io) / [Email](mailto:wyczawskikacper@gmail.com) / [Location](https://goo.gl/maps/MWfC2ftC5sTWUAEp9)
 
-## Here are some things about me :man_technologist:
-
 Favorite  IDE:
 
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
