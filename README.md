@@ -10,10 +10,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 
-## Some GitHub stats :bar_chart:
+## And some GitHub stats :bar_chart:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kacperwyczawski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## Contibution streak :fire:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kacperwyczawski)](https://git.io/streak-stats)
